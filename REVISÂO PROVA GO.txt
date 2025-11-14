@@ -1,0 +1,28 @@
+REVISÂO PROVA GO
+
+ questão :como criar um hello world?
+
+resposta: criar main.go , package main no topo e importar "fmt"
+
+package main
+
+import "fmt";
+
+function main(){
+
+ fmt.Println("Hello World");
+
+}
+
+questão :para fazer o código funcionar usamos o código : go run main.go
+
+
+questão : Qual a finalidade do MOD? 
+
+questão : Quais os tipos de dados ? 
+resposta :Int - inteiros , n- float, string, booleano
+
+Questão : oq é variável? 
+resposta : Para declarar variável em GO utilizamos a sequencia " := " , um exemplo: nome := "Alan Gabryel", esse tipo de declaração é chamada de declaração curta, mas podemos declarar usando " = " tb .
+
+*** podemos criar funções com o comando " func ".
